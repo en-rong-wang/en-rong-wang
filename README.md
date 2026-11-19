@@ -17,12 +17,11 @@ My research focuses on robotics and autonomous systems, integrating perception, 
 
 ## Publications
 
-- Tsung-Kai Lin, **En-Rong Wang**, Morteza Aliyari, Cheng-Huan Tsai, Ming-Li Chiang, and Li-Chen Fu, "**LiDAR Intensity-Augmented Semantic Voxel Mapping for UAV Swarms**," *2026 International Conference on Advanced Robotics and Intelligent Systems (ARIS)*, Tainan, Taiwan, 2026. (Second author)  
+- Tsung-Kai Lin, **En-Rong Wang**, Morteza Aliyari, Cheng-Huan Tsai, Ming-Li Chiang, and Li-Chen Fu, "**LiDAR Intensity-Augmented Semantic Voxel Mapping for UAV Swarms**," *2026 International Conference on Advanced Robotics and Intelligent Systems (ARIS)*, Tainan, Taiwan, 2026. 
   [IEEE Xplore](https://ieeexplore.ieee.org/document/11734422)
-- Morteza Aliyari, Cheng-Huan Tsai, Tsung-Kai Lin, **En-Rong Wang**, Ming-Li Chiang, and Li-Chen Fu, "**Safe TSY Null-Space Deep Reinforcement Learning for Bearing-Rigid Quadrotor Formations**," *23rd IFAC World Congress*, Busan, Republic of Korea, 2026. (Fourth author)  
+- Morteza Aliyari, Cheng-Huan Tsai, Tsung-Kai Lin, **En-Rong Wang**, Ming-Li Chiang, and Li-Chen Fu, "**Safe TSY Null-Space Deep Reinforcement Learning for Bearing-Rigid Quadrotor Formations**," *23rd IFAC World Congress*, Busan, Republic of Korea, 2026.
   *Accepted and presented; online publication pending.*
-- **IEEE Robotics and Automation Letters (RA-L)**  
-  Dwell-Validated Arrival and Null-Space Collision Avoidance in Dense Environments via Reinforcement Learning for Bearing-Rigid UAV Formations  
+- **"Dwell-Validated Arrival and Null-Space Collision Avoidance in Dense Environments via Reinforcement Learning for Bearing-Rigid UAV Formations,"** *IEEE Robotics and Automation Letters (RA-L).*  
   *Manuscript in preparation for submission.*
   
 ## Selected Robotics Projects
