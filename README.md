@@ -32,7 +32,7 @@ Developed a real-time LiDAR perception and voxel-mapping system on Raspberry Pi 
 
 For more details, please refer to the ARIS 2026 publication listed above.
 
-### Multi-UAV Formation Control
+### [Multi-UAV Formation Control](https://github.com/en-rong-wang/Multi-UAV-Formation-Control)
 Simulation and outdoor experimental validation of coordinated UAV flight.
 
 ### [Autonomous Mobile Robot](https://github.com/en-rong-wang/Autonomous-Mobile-Robot)
