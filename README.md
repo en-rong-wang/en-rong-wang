@@ -31,8 +31,9 @@ LiDAR-based neighboring UAV identification using intensity-augmented semantic vo
 ### Multi-UAV Formation Control
 Simulation and outdoor experimental validation of coordinated UAV flight.
 
-### Autonomous Mobile Robot
-ROS 2-based navigation, localization, and vision-guided object tracking.
+### [Autonomous Mobile Robot](https://github.com/en-rong-wang/Autonomous-Mobile-Robot)
+Developed a ROS 2-based mobile robot integrating autonomous
+navigation, obstacle avoidance, and real-time object tracking.
 
 ### Vision-Guided Robot Manipulation
 Eye-in-hand perception and robotic grasping using the Techman TM5 collaborative robot.
