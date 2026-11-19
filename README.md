@@ -20,9 +20,8 @@ My research focuses on robotics and autonomous systems, integrating perception, 
 - **ARIS 2026**  
   [LiDAR Intensity-Augmented Semantic Voxel Mapping for UAV Swarms](https://ieeexplore.ieee.org/document/11734422)  
   [IEEE Xplore](https://ieeexplore.ieee.org/document/11734422)
-
 - **IFAC World Congress 2026**  
-  Research on safe learning-based control for bearing-rigid UAV formations  
+  Safe TSY Null-Space Deep Reinforcement Learning for Bearing-Rigid Quadrotor Formations  
   *Accepted and presented; online publication pending.*
 
 ## Selected Robotics Projects
