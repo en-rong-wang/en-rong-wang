@@ -24,7 +24,7 @@ My research focuses on robotics and autonomous systems, integrating perception, 
   Safe TSY Null-Space Deep Reinforcement Learning for Bearing-Rigid Quadrotor Formations  
   *Accepted and presented; online publication pending.*
 - **IEEE Robotics and Automation Letters (RA-L)**  
-  Well-Validated Arrival and Null-Space Collision Avoidance in Dense Environments via Reinforcement Learning for Bearing-Rigid UAV Formations  
+  Dwell-Validated Arrival and Null-Space Collision Avoidance in Dense Environments via Reinforcement Learning for Bearing-Rigid UAV Formations  
   *Manuscript in preparation for submission.*
   
 ## Selected Robotics Projects
