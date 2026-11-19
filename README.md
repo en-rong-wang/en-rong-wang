@@ -44,7 +44,7 @@ Vision-guided object recognition and robotic grasping using a Techman TM5 collab
 - **Robotics:** ROS, ROS 2, PX4, Nav2, Gazebo, RViz, TM AI+, Deep Learning
 - **Perception:** LiDAR, YOLO, Intel RealSense
 - **CAD & CAE:** COMSOL, LabVIEW, Autodesk Inventor, Abaqus
-- **Platform:** Linux, Raspberry Pi, NVIDIA Jetson
+- **Platform:** Linux, Raspberry Pi, NVIDIA Jetson nano, CUDA
 
 ## Contact & LinkedIn
 
