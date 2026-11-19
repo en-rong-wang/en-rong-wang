@@ -17,13 +17,16 @@ My research focuses on robotics and autonomous systems, integrating perception, 
 
 ## Publications
 
-- **ARIS 2026**  
+- **ARIS 2026** (Second Author)  
   [LiDAR Intensity-Augmented Semantic Voxel Mapping for UAV Swarms](https://ieeexplore.ieee.org/document/11734422)  
   [IEEE Xplore](https://ieeexplore.ieee.org/document/11734422)
-- **IFAC World Congress 2026**  
+- **IFAC World Congress 2026** (Fourth Author)  
   Safe TSY Null-Space Deep Reinforcement Learning for Bearing-Rigid Quadrotor Formations  
   *Accepted and presented; online publication pending.*
-
+- **IEEE Robotics and Automation Letters (RA-L)**  
+  Well-Validated Arrival and Null-Space Collision Avoidance in Dense Environments via Reinforcement Learning for Bearing-Rigid UAV Formations  
+  *Manuscript in preparation for submission.*
+  
 ## Selected Robotics Projects
 
 ### UAV Swarm Perception
