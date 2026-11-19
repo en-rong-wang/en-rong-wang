@@ -27,7 +27,10 @@ My research focuses on robotics and autonomous systems, integrating perception, 
 ## Selected Robotics Projects
 
 ### UAV Swarm Perception
-LiDAR-based neighboring UAV identification using intensity-augmented semantic voxel mapping.
+
+Developed a real-time LiDAR perception and voxel-mapping system on Raspberry Pi 4, distinguishing neighboring UAVs from dynamic obstacles to enable communication-free swarm perception.
+
+For more details, please refer to the ARIS 2026 publication listed above.
 
 ### Multi-UAV Formation Control
 Simulation and outdoor experimental validation of coordinated UAV flight.
