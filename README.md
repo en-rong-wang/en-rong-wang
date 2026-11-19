@@ -35,8 +35,8 @@ Simulation and outdoor experimental validation of coordinated UAV flight.
 Developed a ROS 2-based mobile robot integrating autonomous
 navigation, obstacle avoidance, and real-time object tracking.
 
-### Vision-Guided Robot Manipulation
-Eye-in-hand perception and robotic grasping using the Techman TM5 collaborative robot.
+### [Vision-Guided Robot Manipulation](https://github.com/en-rong-wang/Vision-Guided-Robot-Manipulation)
+Vision-guided object recognition and robotic grasping using a Techman TM5 collaborative robot.
 
 ## Technical Skills
 
