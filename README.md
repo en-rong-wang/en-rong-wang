@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Mechanical Engineering undergraduate at National Taiwan University (NTU) and a student researcher at the Advanced Control Laboratory (ACL).
+I am a Mechanical Engineering undergraduate at National Taiwan University (NTU) and a student researcher at the Advanced Control Laboratory (ACL), advised by Professor Li-Chen Fu and co-advised by Professor Ming-Li Chiang.
 
 My research focuses on robotics and autonomous systems, integrating perception, control, and learning to develop safe and reliable robots.
 
